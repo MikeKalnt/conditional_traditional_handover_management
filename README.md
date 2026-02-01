@@ -1,6 +1,6 @@
   # Official implementation: "Meta-Learning-Based Handover Management in NextG O-RAN"
 
-This code sample includes the implementation of the algorithm for Conditional-Traditional Handover Management (CONTRA), published in the IEEE Journal on Selected Areas in Communications 2026.
+This code sample includes the implementation of the algorithm for Conditional-Traditional Handover Management (CONTRA), published in the IEEE Journal on Selected Areas in Communications (JSAC), 2026.
 Paper: https://doi.org/10.1109/JSAC.2026.3652037
 
 ## Abstract
